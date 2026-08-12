@@ -14,6 +14,12 @@ The future project will be a **smart waste sorting system** where HuskyLens will
 
 Each type of waste will have its own recycling bin, and **servo motors** can be used to control the opening of the appropriate bin based on the classification result.
 
+## Onshape Design
+
+You can view the 3D model on Onshape here:
+
+[View the 3D model on Onshape](https://cad.onshape.com/documents/2d93611223a65145706cf69c/w/82d3fea3f2132a4f630c89f0/e/d475251de01e74e4138880f5)
+
 ## Files
 
 * `recycle_bin.stl` – 3D printable recycling bin model
