@@ -13,9 +13,6 @@ The future project will be a **smart waste sorting system** where HuskyLens will
 * Metal
 
 Each type of waste will have its own recycling bin, and **servo motors** can be used to control the opening of the appropriate bin based on the classification result.
-## 3D Model
-
-[View / Download the STL File](recycle_bin.stl)
 
 ## Files
 
